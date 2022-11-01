@@ -36,7 +36,7 @@ Meu nome é Diego Trindade e sou estudante de Engenharia de Computação pelo CE
 
 ### 🛠️ Ferramentas e Linguagens
 
-<div>
+<div id="tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
@@ -64,7 +64,13 @@ Meu nome é Diego Trindade e sou estudante de Engenharia de Computação pelo CE
 
 ### 🚀 Estatísticas
 
+
+<div id="footer" align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegohat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+  <img src="https://media.giphy.com/media/3owvKgRjmrtgJikO7C/giphy.gif" width="900" height="400"/>
+</div>
 
