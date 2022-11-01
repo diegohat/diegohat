@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 Sobre mim:
 
-Estudante de Engenharia de Computação pelo CEFET-MG
+Meu nome é Diego Trindade e sou estudante de Engenharia de Computação pelo CEFET-MG
 
 - :telescope: Desenvolvendo projetos em Python e C++.
 
