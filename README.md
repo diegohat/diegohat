@@ -14,10 +14,6 @@
   <h1>Opa, Bão?</h1>
 </div>
 
-<div id="about" align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 🧑‍💻 Sobre mim:
