@@ -20,9 +20,9 @@
 
 Meu nome é Diego Trindade e sou estudante de Engenharia de Computação pelo CEFET-MG
 
-- :telescope: Desenvolvendo projetos em Python e C++.
+- :telescope: Desenvolvendo projetos em Python e C.
 
-- :seedling: Aprendendo Rust e Visão Computacional.
+- :seedling: Aprendendo JavaScript e Desenvolvimento Web.
 
 - :zap: No meu tempo livre jogo videogames e leio ficção científica.
 
@@ -40,20 +40,14 @@ Meu nome é Diego Trindade e sou estudante de Engenharia de Computação pelo CE
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" **alt="CMake" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" **alt="Unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" **alt="Networkx" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" **alt="SSH" width="40" height="40"/>
 </div>
 
 ---
