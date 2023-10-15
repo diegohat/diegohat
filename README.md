@@ -17,11 +17,7 @@ My name is Diego Trindade, and I'm a Computer Engineering student at CEFET-MG.
 - :telescope: Developing projects in Python and C.
 
 - :seedling: Learning JavaScript and Web Development.
-
-- :zap: In my free time, I play video games and read science fiction.
-
-- :mailbox: Contact: [![LinkedIn Badge](https://img.shields.io/badge/-Diego-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegohat/)
-
+- 
 ---
 
 ### 🛠️ Tools and Languages
