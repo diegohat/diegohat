@@ -17,7 +17,7 @@ My name is Diego Trindade, and I'm a Computer Engineering student at CEFET-MG.
 - :telescope: Developing projects in Python and C.
 
 - :seedling: Learning JavaScript and Web Development.
-- 
+
 ---
 
 ### 🛠️ Tools and Languages
