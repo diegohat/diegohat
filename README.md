@@ -1,48 +1,52 @@
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/diegohat/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-diegohat&style=flat-square&color=blue" alt=""/>
-  <h1>Hi!</h1>
-</div>
-
 ---
 
-### 🧑‍💻 About me:
+# 👋 Hello, I'm Diego Trindade!
 
-My name is Diego Trindade, and I'm a Computer Engineering student at CEFET-MG.
+🎓 **Engineer | Innovator | Developer**
 
-- :telescope: Developing projects in Python and C.
+👨‍🎓 I'm currently pursuing a Bachelor’s in Computer Engineering at *Centro Federal de Educação Tecnológica de Minas Gerais* (graduating in 2025), with a previous degree in Civil Engineering from *Pontifícia Universidade Católica de Minas Gerais*. Passionate about tech, learning, and making an impact in the world of IoT, backend development, and automation!
 
-- :seedling: Learning JavaScript and Web Development.
+## 🌟 Skills & Tools
 
----
+### 🖥️ Programming Languages
+- **C/C++** | **Rust** | **Python** | **JavaScript** | **TypeScript**
 
-### 🛠️ Tools and Languages
+### 🚀 Tech & Platforms
+- **AWS** | **Docker** | **Portainer** | **PostgreSQL** | **RabbitMQ**
+- **CI/CD Pipelines** with **Jenkins**
+- **IoT Development** using **LoRaWAN**  
+- **Machine Learning**, **Data Structures**, **Algorithms**  
 
-<div id="tools" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-</div>
+### 🔧 Other Tools & Frameworks
+- **GitFlow** for version control 📈
+- **gRPC** & **Protocol Buffers** for efficient communication  
+- **AWS EC2**, **ECR**, **Secrets Manager** for cloud solutions ☁️  
 
----
+## 🛠️ Projects & Experiences
 
-### 🚀 Statistics
+### Hedro Sistemas Inteligentes | Backend Intern (2024 - Present)
+- 🚀 **Rust API Development**: Designed efficient routes and endpoints
+- 🔑 **AWS Integration**: Managed secrets with AWS Secrets Manager  
+- 🔄 **Docker Management**: Orchestrated containers using Portainer  
+- 📈 **CI/CD**: Enhanced deployments with Jenkins automation  
 
-<div id="footer" align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegohat&theme=dark&background=000000)](https://git.io/streak-stats)
+### Centro Federal de Educação Tecnológica de Minas Gerais | Academic Tutor (2022)
+- 👩‍🏫 Supported students in *Formal Languages and Automata*  
+- 📊 Created monthly progress reports & enhanced learning resources  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+### Colégio Apogeu | Maker Facilitator (2018 - 2021)
+- 🛠️ Implemented a Maker culture: DIY, hands-on learning, team projects
+- 🌱 Fostered a creative environment & mentored students in tech and innovation  
+
+## 🌱 Ongoing Learning
+Always leveling up! 🌍 I enjoy diving into new tech areas, especially in **IoT**, **AI**, and **backend architecture**.
+
+## 🎓 Academic Highlights
+- **IoT Prototype for Slope Monitoring**: My capstone project explores LoRaWAN for data collection.
+- **Gamification in English**: A research project blending tech with language learning 📘.
+
+## 🌐 Let's Connect!
+- 💼 **[LinkedIn](https://www.linkedin.com/in/diegohat/)**
+- 📂 **[GitHub](https://github.com/diegohat)**
+
+--- 
