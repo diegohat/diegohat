@@ -31,7 +31,7 @@
 - 📈 **CI/CD**: Enhanced deployments with Jenkins automation  
 
 ### Centro Federal de Educação Tecnológica de Minas Gerais | Academic Tutor (2022)
-- 👩‍🏫 Supported students in *Formal Languages and Automata*  
+- 👨🏻‍🏫 Supported students in *Formal Languages and Automata*  
 - 📊 Created monthly progress reports & enhanced learning resources  
 
 ### Colégio Apogeu | Maker Facilitator (2018 - 2021)
