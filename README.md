@@ -8,7 +8,9 @@
 # 👋 Hello, I'm Diego Trindade!
 
 **🎓 Bachelor of Engineering (Computer Engineering) @ CEFET-MG (2025)**  
+
 **🏗️ Bachelor of Engineering (Civil Engineering) @ PUC Minas (2017)**
+
 **🚀 Building Scalable Systems & Smart IoT Solutions**
 
 A tech-driven professional with a unique dual-engineering background, blending 8+ years of analytical problem-solving experience with cutting-edge software development skills. Passionate about architecting robust backend systems and implementing IoT innovations for real-world impact.
